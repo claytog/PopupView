@@ -859,4 +859,3 @@ public struct Popup<PopupContent: View>: ViewModifier {
     }
 #endif
 }
-
